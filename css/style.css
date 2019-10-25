@@ -1,0 +1,10 @@
+* {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+div {
+  display: block;
+  width: 400px;
+  margin: 1rem auto 0 auto;
+}
