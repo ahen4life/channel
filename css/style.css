@@ -3,8 +3,7 @@
   margin-top: 2rem;
 }
 
-div {
-  display: block;
+.row > div {
   width: 400px;
   margin: 1rem auto 0 auto;
 }
